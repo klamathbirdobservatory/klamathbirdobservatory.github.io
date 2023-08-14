@@ -1,2 +1,2 @@
-# KlamathBirdObservatory.github.io
+# klamathbirdobservatory.github.io
  
